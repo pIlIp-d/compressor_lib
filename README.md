@@ -11,5 +11,5 @@ Install [cpdfsqueeze](https://github.com/coherentgraphics/cpdfsqueeze-binaries)
 
 # LICENCES 
 
-* can be found Subfolders 
+* can be found in Subfolders 
 * in crunch.py itself
